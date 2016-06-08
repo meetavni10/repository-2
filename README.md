@@ -1,2 +1,2 @@
 # repository-2
-test repository
+THIS IS JUST A test repository
